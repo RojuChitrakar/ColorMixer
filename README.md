@@ -9,7 +9,7 @@ A simple and fun **React + Vite** project that lets you mix RGB colors interacti
 ## 🌈 Preview
 
 <p align="center">
-  <img src="14f37cb5-7f65-4ad7-b24f-03a8f6355a01.png" width="800" alt="Color Mixer App Preview" />
+  <img src="https://github.com/RojuChitrakar/ColorMixer/blob/main/Screenshot%202025-10-08%20195332.png" width="800" alt="Color Mixer App Preview" />
 </p>
 
 
@@ -79,3 +79,4 @@ Go to 👉 http://localhost:5173/
 👨‍💻 Author
 Roju Chitrakar
 💌 rojuchit00@gmail.com
+
