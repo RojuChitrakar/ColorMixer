@@ -36,7 +36,7 @@ A simple and fun **React + Vite** project that lets you mix RGB colors interacti
 ## ⚙️ How to Run
 # Clone this repository
 ```bash
-git clone https://github.com/your-username/color-mixer.git
+git clone https://github.com/RojuChitrakar/color-mixer.git
 ```
 # Navigate into the project folder
 ```bash
@@ -79,4 +79,5 @@ Go to 👉 http://localhost:5173/
 👨‍💻 Author
 Roju Chitrakar
 💌 rojuchit00@gmail.com
+
 
